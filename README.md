@@ -128,6 +128,51 @@ As fontes são carregadas através do Google Fonts.
 
 ---
 
+### 📋 Formulário
+
+O formulário utiliza recursos nativos do HTML para validação dos campos obrigatórios.
+
+Por se tratar de um projeto acadêmico exclusivamente Front-End, o formulário não realiza o envio real de informações para servidor, banco de dados ou e-mail.
+
+A confirmação apresentada na interface possui finalidade demonstrativa.
+---
+### ▶️ Como executar o projeto
+Faça o download ou clone este repositório.
+Abra a pasta do projeto no Visual Studio Code.
+Abra o arquivo index.html diretamente no navegador.
+
+Também é possível utilizar a extensão Live Server do Visual Studio Code para executar o projeto localmente.
+---
+
+### 🌐 Publicação
+
+Como parte da atividade acadêmica, a Landing Page poderá ser publicada em uma plataforma gratuita de hospedagem para disponibilização através de um endereço público.
+---
+
+### ⚠️ Aviso
+
+Este projeto foi desenvolvido exclusivamente para fins educacionais.
+
+Dr. Rafael Montenegro, sua clínica, informações profissionais, endereço, telefone e demais dados apresentados nesta Landing Page são fictícios.
+
+As imagens utilizadas no projeto possuem finalidade exclusivamente ilustrativa dentro do contexto da atividade acadêmica.
+---
+
+### 👩‍💻 Autora
+
+Janiny Andrade da Nóbrega
+
+Curso de Análise e Desenvolvimento de Sistemas
+Senac EAD
+---
+
+### 📖 Disciplina
+
+Fundamentos de Programação Web
+
+Produção Textual Individual — PTI
+Senac EAD — 2026
+
 ## 📁 Estrutura do projeto
 
 ```text
@@ -146,45 +191,3 @@ cirurgiãoPlastico/
         ├── body.jpg
         ├── aesthetic.jpg
         └── clinic.jpg
-
-
-📋 Formulário
-
-O formulário utiliza recursos nativos do HTML para validação dos campos obrigatórios.
-
-Por se tratar de um projeto acadêmico exclusivamente Front-End, o formulário não realiza o envio real de informações para servidor, banco de dados ou e-mail.
-
-A confirmação apresentada na interface possui finalidade demonstrativa.
-
-▶️ Como executar o projeto
-Faça o download ou clone este repositório.
-Abra a pasta do projeto no Visual Studio Code.
-Abra o arquivo index.html diretamente no navegador.
-
-Também é possível utilizar a extensão Live Server do Visual Studio Code para executar o projeto localmente.
-
-🌐 Publicação
-
-Como parte da atividade acadêmica, a Landing Page poderá ser publicada em uma plataforma gratuita de hospedagem para disponibilização através de um endereço público.
-
-⚠️ Aviso
-
-Este projeto foi desenvolvido exclusivamente para fins educacionais.
-
-Dr. Rafael Montenegro, sua clínica, informações profissionais, endereço, telefone e demais dados apresentados nesta Landing Page são fictícios.
-
-As imagens utilizadas no projeto possuem finalidade exclusivamente ilustrativa dentro do contexto da atividade acadêmica.
-
-👩‍💻 Autora
-
-Janiny Andrade da Nóbrega
-
-Curso de Análise e Desenvolvimento de Sistemas
-Senac EAD
-
-📖 Disciplina
-
-Fundamentos de Programação Web
-
-Produção Textual Individual — PTI
-Senac EAD — 2026
