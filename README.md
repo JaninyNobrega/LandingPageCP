@@ -146,7 +146,7 @@ Também é possível utilizar a extensão Live Server do Visual Studio Code para
 
 ### 🌐 Publicação
 
-Como parte da atividade acadêmica, a Landing Page poderá ser publicada em uma plataforma gratuita de hospedagem para disponibilização através de um endereço público.
+Como parte da atividade acadêmica, a Landing Page foi publicada em uma plataforma gratuita de hospedagem para disponibilização através do link: https://rafael-montenegro.vercel.app.
 ---
 
 ### ⚠️ Aviso
